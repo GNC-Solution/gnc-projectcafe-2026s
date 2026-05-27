@@ -10,6 +10,7 @@ https://drive.google.com/file/d/1Q62dM4GW0JgaAlkUpldppaO4dsLqM4g_
 
 ## Python Django example
 https://github.com/Bipasori/ProjectCafeCOP/tree/main/DjangoBoard
-<br>
+<br><br>
+### Video lectures (Korean)
 https://www.youtube.com/watch?v=zjnCPmu_Tcg&list=PLr_ki3_GfpZMCHR_Im1AEeRd-NNs16KSh&index=19
 <br><br><br>
