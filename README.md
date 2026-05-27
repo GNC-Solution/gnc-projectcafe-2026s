@@ -1,5 +1,4 @@
 # GNC SOLUTION 2026 SUMMER INTERNSHIP &amp; PROJECT
-<br><br><br>
 
 ## Learning Path
 https://drive.google.com/file/d/1Q62dM4GW0JgaAlkUpldppaO4dsLqM4g_
