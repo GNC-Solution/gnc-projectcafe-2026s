@@ -1,0 +1,31 @@
+
+{% load static %}
+
+{% block body %}
+
+
+    <!-- ======= Hero Section ======= -->
+    <section id="hero" class="d-flex align-items-center">
+
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
+              <a href="/">HOME</a>
+          </div>
+        </div>
+      </div>
+
+    </section><!-- End Hero -->
+
+    <main id="main">
+
+        {% for row in rsData %}
+        <div>
+            {{ row.symbol }} : {{ row.tr_price }} : <span style="color:#FF6600;pointer:cursor;">{{ row.service }}<span>
+        </div>
+        {% endfor %}
+
+    </main><!-- End #main -->
+
+{% endblock %}
+
