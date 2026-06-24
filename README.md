@@ -1,8 +1,8 @@
 # GNC SOLUTION 2026 SUMMER INTERNSHIP &amp; PROJECT
 
 ## System Overview
+<img width="798" height="413" alt="image" src="https://github.com/user-attachments/assets/ebf09528-bee9-4d92-a5f8-cf28bd8ad9fa" />
 
-<img width="786" height="413" alt="image" src="https://github.com/user-attachments/assets/84cc0fcb-78de-43df-b3ed-4a38bc908bc6" />
 <br><br><br>
 
 ## Learning Path
